@@ -1,0 +1,10 @@
+.g-hidden {
+    display: none;
+}
+.box-modal img {
+    max-width: 900px;
+    width: 100%;
+}
+.box-modal-li li {
+    list-style-type: none;
+}
